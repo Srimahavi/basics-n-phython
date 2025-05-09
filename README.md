@@ -7,5 +7,7 @@ elif a>30 and a<=40:
     print('conguratilations your a groweupt ')
 elif a>40 and a<=60:
     print('welcome to 50s heros wold')
+elif a>1 and a<=14:
+    print('your chid')
 else:
     print('old is gold so your age is old')
